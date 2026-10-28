@@ -1,0 +1,6 @@
+{
+  "name": "Node.js to Next.js Migrator & Studio",
+  "description": "Converta e migre projetos Node.js, Express e APIs para Next.js moderno (App Router, Server Actions, Route Handlers e TypeScript).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
